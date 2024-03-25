@@ -77,3 +77,11 @@ These FMUs have been tested successfully in the most recent release of MapleSim.
 | DoublePendulum | ME, CS |
 
 </details>
+
+# License
+
+Copyright Maplesoft 2024.
+
+All rights reserved.
+
+The models and accompanying materials may only be used for testing and validation of FMI implementations.
